@@ -11,7 +11,7 @@ Computational geometry is a branch of computer science that deals with the study
 Feel free to explore the projects in this repository:
 
 1. 10PRINT
-   10PRINT is a simple programming pattern that creates a continuous pattern of diagonal slashes (/) and backslashes (\) on a computer screen, depending on certain condition generally a probability function. [try it!](https://shhhshank.github.io/Computational-Geometry/10PRINT/index.html)
+   It is a simple programming pattern that creates a continuous pattern of diagonal slashes (/) and backslashes (\) on a computer screen, depending on certain condition generally a probability function. [try it!](https://shhhshank.github.io/Computational-Geometry/10PRINT/index.html)
 
 You can click on the project links above to navigate to the respective project.
 
