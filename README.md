@@ -11,9 +11,10 @@ Computational geometry is a branch of computer science that deals with the study
 Feel free to explore the projects in this repository:
 
 1. 10PRINT
-   It is a simple programming pattern that creates a continuous pattern of diagonal slashes (/) and backslashes (\) on a computer screen, depending on certain condition generally a probability function. [try it!](https://shhhshank.github.io/Computational-Geometry/10PRINT/index.html)
-
-You can click on the project links above to navigate to the respective project.
+   It is a simple programming pattern that creates a continuous pattern of diagonal slashes (/) and backslashes (\) on a computer screen, depending on certain condition generally a probability function. [try it!](https://shhhshank.github.io/Computational-Geometry/10PRINT/)
+2. Convex Hull
+   The Convex Gift Wrapping algorithm is a method used to find the smallest convex hull around a set of points by repeatedly selecting the point that forms the most clockwise angle with the current hull boundary.
+You can click on the project links above to navigate to the respective project. [try it!](https://shhhshank.github.io/Computational-Geometry/Convex-Gift-Wrapping/)
 
 ## License
 
