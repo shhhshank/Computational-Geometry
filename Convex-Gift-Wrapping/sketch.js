@@ -9,9 +9,12 @@ let index = 0;
 
 
 function setup() {
+
+    frameRate(50)
+
     createCanvas(windowWidth, windowHeight);
     background(0, 0, 0)
-    for (let i = 0; i < 20; i++) {
+    for (let i = 0; i < 100; i++) {
         points.push(createVector(random(windowWidth), random(windowHeight)))
     }
 
